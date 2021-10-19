@@ -10,6 +10,7 @@
     - Sports cars (400+HP 2011 335xi)
     - Piano & Guitar (playing since 6 y/o)
     - Homebrewing (Wine)
+    - Photography
     - Ontology / reflection
       - Understanding of self
       - Understanding of events and things external to the self
