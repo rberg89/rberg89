@@ -11,9 +11,8 @@
     - Piano & Guitar (playing since 6 y/o)
     - Homebrewing (Wine)
     - Photography
-    - Ontology / reflection
-      - Understanding of self
-      - Understanding of events and things external to the self
+    - Raspberry Pi
+    - Ontology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
   - Work! I am looking for a job in software development
