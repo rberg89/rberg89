@@ -14,8 +14,8 @@
     - Raspberry Pi
     - Ontology
 - 🌱 I’m currently learning ...
+- React
 - 💞️ I’m looking to collaborate on ...
-  - 
 - 📫 How to reach me ... 
   - LinkedIn: https://www.linkedin.com/in/ryan-d-berg/
 
