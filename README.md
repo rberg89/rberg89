@@ -7,15 +7,15 @@
         - Express JS (web / api framework for Node)
         - Puppeteer (Programmatic control of chromium browser for web automation)
   - Personally ...
-    - Sports cars (400+HP 2011 335xi)
-    - Piano & Guitar (playing since 6 y/o)
+    - Sports cars
+    - Piano & Guitar
     - Homebrewing (Wine)
     - Photography
     - Raspberry Pi
     - Ontology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-  - Work! I am looking for a job in software development
+  - 
 - 📫 How to reach me ... 
   - LinkedIn: https://www.linkedin.com/in/ryan-d-berg/
 
