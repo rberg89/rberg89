@@ -17,6 +17,7 @@
   - React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
+  - Email: rberg89@gmail.com (preferred)
   - LinkedIn: https://www.linkedin.com/in/ryan-d-berg/
 
 <!---
